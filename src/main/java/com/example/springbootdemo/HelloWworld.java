@@ -11,7 +11,8 @@ public class HelloWworld {
     @GetMapping("/b")
     public String test(){
 
-        System.out.println("000000000000000000");
+        System.out.println("000000000000110sss000000");
+        System.out.println("test");
         return "你好spring boot";
     }
 }
